@@ -3,4 +3,4 @@ Git is free software.
 16th change dev branch 
 Creating a new branch is quick & simple
 master change
-master commit
+feature2 commit
